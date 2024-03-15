@@ -21,7 +21,11 @@ We use GNU/Linux distributions, if you want to use a different operating system 
 - [Exercism](https://exercism.org/tracks/javascript)
   Together with the book, you can join the Javascript track on Exercism, and get a bunch of exercises to practice what you learned on the book or from any other sources.
 
-## Node.js Event Loop
+## Some Javascript Essentials
+
+This are short articles on specific Javascript subjects that surely will appear on the previous book, but since these are crucial knowledge, I decided to add this to-the-point articles that are shorter.
+
+- [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
 Javascript is not like other commonly used languages, so it's important you understand some of the inner workings of it's internal engine.
 
