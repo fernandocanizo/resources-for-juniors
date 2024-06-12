@@ -59,3 +59,11 @@ This is an old list I've been carrying for years, so take it with a grain of sal
   published by Manning on 2021
 
   Haven't read it, but looking at its subjects looks like a good book to deepen your knowledge after you have read some of the other suggested books to start.
+
+## Typescript
+
+The best resource to start with Typescript is the [official site](https://www.typescriptlang.org/), `Docs` section has several introductory tutorials adapted according to previous context.
+
+Also there lives the [handbook](https://www.typescriptlang.org/docs/handbook/intro.html).
+
+Another book I read and recommend is [Learning Typescript](https://www.oreilly.com/library/view/learning-typescript/9781098110321/) by Josh Goldberg, from editorial O'Reilly. It has a nice set of pratice exercise to hone acquired knowledge.
