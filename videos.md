@@ -23,11 +23,16 @@ This is a suggested ordering for watching some of his videos:
 Douglas Crockford is (was?) an eminence in the Javascript scene, here I link a series of old talks were he goes deep into Javascript, tells about some Javascript history and why some things are the way they are, proper ways to code, and much more. In essence I feel these talks are a must watch.
 
 - [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) 1:42 hs.
-  This has not much about Javascript, but gives a good deal of context to understand Javascript later. Why we still use an 80 characters limit on some of our systems? From where does the phrase _"spaghetti code"_ come?
+  This has not much about Javascript, but gives a good deal of context to understand Javascript later. Why we still use an 80 characters limit on some of our systems? From where does the phrase _"spaghetti code"_ come? It's mostly about history of computers and programming languages.
 
-- [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY)
+- [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) 1:30 hs.
+  Here he starts with Javascript properly.
 
-- [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM)
+  Why the prototypal model is more powerful? Why Java stinks and Javascript is a more powerful language? Taxonomy and classifications are not needed and are hard to make right. Why is preferable to ditch `new`? Traps of the language. Why do we call strings strings? Why arrays are not really arrays and are innefficient in Javascript? Why `with` is no longer in the language? Why we shouldn't use `for..in`?
+
+- [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) 1:13 hs.
+  Functions.
+  You may wish to skip previous videos, but this one is **essential**. Please watch it.
 
 - [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M)
 
